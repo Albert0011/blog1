@@ -36,6 +36,8 @@ Some other materials:
 
 ### b. Programming
 
+![](Python-Logo.jpg)
+
 After understanding the math foundations, I will start on learning the essential skill of coding. In 2025, Python is still the most widely used language for data science. This is because it is very simple, easy to pick-up, lots and lots of libraries that are related to data science & AI. A lot of tools for visualization, and many more! Another language is R, but for me personally I don't really like R because I feel like using python is enough for my day to day basis. R is usually more widely used in research and academia, when you are doing a lot of statistical analysis, then R is definitely prefered.
 
 Here are my suggestions on courses and where to learn for Python:
@@ -81,6 +83,8 @@ Here are some my recommendations of courses:
 
 ### e. Data Visualization
 
+![](dataviz.png)
+
 After you make you gather your data, do some data wrangling, make your ML models, then what's next? You want to show it to everybody right? Here is where Data Visualization comes in! Data visualization is the art of representing data in a visual format (e.g., charts, graphs) to help uncover patterns, trends, and insights. It’s an essential skill for data scientists, as it allows you to effectively communicate your findings to others. There are a LOT of choices here, for me personally, if we are using python then I would start with Matplotlib + Seaborn if you are from a CS background, and if you are not maybe you can start from Plotly or Altair. For R, ggplot2 is the best one! 
 
 Here are some my recommendations but I would suggest to go to their documentations:
@@ -103,4 +107,8 @@ The world of data science and AI is rapidly evolving, new tools, new libraries, 
 
 Keep learning! Build your portfolio, get that data science job that you have been dreaming about! 
 
+# Refferences
+
 Vira, C. (2024, January 10). How to learn data science from scratch in 2024. Medium. https://medium.com/@careervira.community/how-to-learn-data-science-from-scratch-in-2024-adf3050ad7f5
+Image Citation: "Python Logo." 1000 Logos, https://1000logos.net/python-logo/. Accessed 18 Jan. 2025.
+Image Citation: "Data Visualization." NU Stat, https://nustat.github.io/DataScience_Intro_python/Data%20visualization.html. Accessed 18 Jan. 2025.
