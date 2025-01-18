@@ -1,0 +1,45 @@
+---
+title: "How to start Data Science in 2025: From Zero to Hero"
+author: "Albert Christopher Halim"
+date: "2025-01-18"
+categories: [code, tutorial]
+image: "image.jpg"
+---
+
+![](image.jpg)
+
+In the recent years, data science has always been the top skills that people are getting into. It has been shaping many industries, from finance, healthcare, entertainment, and many more. Maybe you are interested in learning it today? The good news is, in 2025, it gets easier to learn it! In this blog post, I will try to give you a step by step structure on how to start learning data science in 2025. We will cover some key concepts, tools, resources, and learning strategies so that you can be a data scientist yourself!
+
+# Why Data Science in 2025?
+
+The world is changing. A lot of advancement in AI has been made this past few years. Data is the key of making AIs. The world is generating more and more data, and as it continues to grow exponentially, more professionals are needed to extact, clean, and make use of these datas. Any kinds of backgrounds can make use data science to make more advancements in their own fields, even if you are from a STEM or non-STEM backgrounds, it doesn't matter if you have the will!
+
+# Where to start?
+
+One of the most frequently asked question is where to start? Here is a good [Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist) that I found, you don't need to learn everything deeply and everything in one day, but make sure that you know the fundamentals of them. Remember that the most important thing here is your commitment to learning, this journey is not going to be easy, it will take you months to understand everything and just do it at your own pace!
+
+## 1. Building Your Foundations
+### a. Maths
+Honestly, this is the part where I struggle the most and at first thought that this was not going to be as important as coding. But let me tell you, it is very important in the world of data science. What you need to focus is learning about linear algebra, statistics, and some calculus. What you will learn here are key concepts like hypothesis testing, probability distributions, p-values, regression analysis and many more. 
+
+For me personally I like to learn using videos, these videos helped me a lot because it gives some visualizations so that learning math is not too abstract:
+[The Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+[The Essence of Calculus](https://www.3blue1brown.com/topics/calculus)
+
+Some other materials:
+[A course that I found entertaining](https://www.youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
+
+### b. Programming
+
+After understanding the math foundations, I will start on learning the essential skill of coding. In 2025, Python is still the most widely used language for data science. This is because it is very simple, easy to pick-up, lots and lots of libraries that are related to data science & AI. A lot of tools for visualization, and many more! Another language is R, but for me personally I don't really like R because I feel like using python is enough for my day to day basis. R is usually more widely used in research and academia, when you are doing a lot of statistical analysis, then R is definitely prefered.
+
+Here are my suggestions on courses and where to learn for Python:
+- [Introduction to Python Programming from Coursera](https://www.coursera.org/learn/python-programming-intro/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_programming-python-java_penn_FTCOF_specializations_country-US-country-CA&campaignid=20859192865&adgroupid=155909119199&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=684305169997&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiAv628BhC2ARIsAIJIiK_XDXWtk2BhTue02-M0TZ3N0GjyL5kzC2Y3IB1U7MB1oOKOlavGdFEaAr-yEALw_wcB)
+- [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
+- [Kaggle Python Tutorial](https://www.kaggle.com/learn/python)
+- [W3 Schools Python Tutorial](https://www.w3schools.com/python/)
+
+Here are my suggestions on courses and where to learn for R:
+- [Data Analysis with R Specialization](https://www.coursera.org/specializations/statistics/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_statistics_duke_FTCOF_specializations_country-US-country-CA&campaignid=19997217497&adgroupid=149763243522&device=c&keyword=learn%20statistics&matchtype=b&network=g&devicemodel=&adposition=&creativeid=655441924732&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiAv628BhC2ARIsAIJIiK-543FPH1-NmtYhh5Jgoa9UBsB8f5OIUttLHg_MzGNCDNILXkP_RPQaAqCxEALw_wcB)
+- [W3 Schools R Tutorial](https://www.w3schools.com/r/default.asp)
+

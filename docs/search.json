@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "How to start Data Science in 2025: From Zero",
+    "objectID": "posts/data-science-tutorial/index.html",
+    "href": "posts/data-science-tutorial/index.html",
+    "title": "How to start Data Science in 2025: From Zero to Hero",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "In the recent years, data science has always been the top skills that people are getting into. It has been shaping many industries, from finance, healthcare, entertainment, and many more. Maybe you are interested in learning it today? The good news is, in 2025, it gets easier to learn it! In this blog post, I will try to give you a step by step structure on how to start learning data science in 2025. We will cover some key concepts, tools, resources, and learning strategies so that you can be a data scientist yourself!"
+  },
+  {
+    "objectID": "posts/data-science-tutorial/index.html#building-your-foundations",
+    "href": "posts/data-science-tutorial/index.html#building-your-foundations",
+    "title": "How to start Data Science in 2025: From Zero to Hero",
+    "section": "1. Building Your Foundations",
+    "text": "1. Building Your Foundations\n\na. Maths\nHonestly, this is the part where I struggle the most and at first thought that this was not going to be as important as coding. But let me tell you, it is very important in the world of data science. What you need to focus is learning about linear algebra, statistics, and some calculus. What you will learn here are key concepts like hypothesis testing, probability distributions, p-values, regression analysis and many more.\nFor me personally I like to learn using videos, these videos helped me a lot because it gives some visualizations so that learning math is not too abstract: The Essence of Linear Algebra The Essence of Calculus\nSome other materials: A course that I found entertaining\n\n\nb. Programming\nAfter understanding the math foundations, I will start on learning the essential skill of coding. In 2025, Python is still the most widely used language for data science. This is because it is very simple, easy to pick-up, lots and lots of libraries that are related to data science & AI. A lot of tools for visualization, and many more! Another language is R, but for me personally I don’t really like R because I feel like using python is enough for my day to day basis. R is usually more widely used in research and academia, when you are doing a lot of statistical analysis, then R is definitely prefered.\nHere are my suggestions on courses and where to learn for Python: - Introduction to Python Programming from Coursera - Intro to Programming - Kaggle Python Tutorial - W3 Schools Python Tutorial\nHere are my suggestions on courses and where to learn for R: - Data Analysis with R Specialization - W3 Schools R Tutorial"
   },
   {
     "objectID": "about.html",
@@ -18,6 +25,6 @@
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "How to start Data Science in 2025: From Zero\n\n\n\n\n\n\ncode\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nJan 18, 2025\n\n\nAlbert Christopher Halim\n\n\n\n\n\n\nNo matching items"
+    "text": "How to start Data Science in 2025: From Zero to Hero\n\n\n\n\n\n\ncode\n\n\ntutorial\n\n\n\n\n\n\n\n\n\nJan 18, 2025\n\n\nAlbert Christopher Halim\n\n\n\n\n\n\nNo matching items"
   }
 ]
