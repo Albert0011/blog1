@@ -110,5 +110,7 @@ Keep learning! Build your portfolio, get that data science job that you have bee
 # Refferences
 
 Vira, C. (2024, January 10). How to learn data science from scratch in 2024. Medium. https://medium.com/@careervira.community/how-to-learn-data-science-from-scratch-in-2024-adf3050ad7f5
+
 Image Citation: "Python Logo." 1000 Logos, https://1000logos.net/python-logo/. Accessed 18 Jan. 2025.
+
 Image Citation: "Data Visualization." NU Stat, https://nustat.github.io/DataScience_Intro_python/Data%20visualization.html. Accessed 18 Jan. 2025.
