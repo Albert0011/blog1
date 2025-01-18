@@ -1,9 +1,11 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "How to start Data Science in 2025: From Zero"
+author: "Albert Christopher Halim"
 date: "2025-01-18"
-categories: [news, code, analysis]
+categories: [code, tutorial]
 image: "image.jpg"
 ---
+
+![](image.jpg)
 
 This is a post with executable code.
